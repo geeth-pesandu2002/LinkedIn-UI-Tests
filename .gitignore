@@ -1,0 +1,19 @@
+# Maven build output
+target/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS / temporary files
+.DS_Store
+Thumbs.db
+
+# Test run screenshots (keep folder if needed, or exclude large binaries)
+# screenshots/
+
+TEST_REPORT.md
