@@ -8,7 +8,7 @@ public final class Config {
 
     // Search term for Tasks 3 and 4. Can be overridden with LINKEDIN_SEARCH.
     public static final String SEARCH_TERM =
-            System.getenv().getOrDefault("LINKEDIN_SEARCH", "software testing");
+            System.getenv().getOrDefault("LINKEDIN_SEARCH", "cyber security");
 
     public static final String LOGIN_URL = "https://www.linkedin.com/login";
     public static final int TIMEOUT_SECONDS = 30;
